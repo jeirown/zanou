@@ -41,7 +41,7 @@ Save all your python scripts with an extension `.py`. Before you move on, make s
 		* You current location is shown always on the beginning of its line. Something like `C:\Users\zanou`
 		* To list all the directories, use the `dir` command. Type `dir` and press enter.
 		* To move from one directory to another, user the `cd` commadn. Type `cd test_dir` to move to the test_dir directory. To move back one directory use `cd ..`
-		* *Exercise:* What commands should you type to your python scripts directory?
+		* *Exercise:* What commands should you type to go to your python scripts directory?
 	* Type `python your_script.py` to execute your script
 	* See the results ;)
 
