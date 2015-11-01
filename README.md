@@ -6,12 +6,12 @@ https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D90
 2.  Download and install python package manager
 https://bootstrap.pypa.io/get-pip.py  (to install just open the file)
 3.  Add the environment variables to the path. 
- *Press windows button
- *Type "environment"
- *Press "Edit the system environment variables"
- *Press "Environment Variables..." button
- *Find the PATH variable under the System Variables and press "Edit ..." button
- *Add the following string to the end of the PATH variable  ;C:\Python27;C:\Python27\Scripts and press "OK"
+ * Press windows button
+ * Type "environment"
+ * Press "Edit the system environment variables"
+ * Press "Environment Variables..." button
+ * Find the PATH variable under the System Variables and press "Edit ..." button
+ * Add the following string to the end of the PATH variable  ;C:\Python27;C:\Python27\Scripts and press "OK"
 4.  Install python's scientific packages
   -Press windows button and type "cmd"
   -Right click command prompt and press "Run as administrator"
