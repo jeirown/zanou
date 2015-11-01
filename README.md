@@ -1,7 +1,7 @@
 # zanou
 Python lessons to zanou
 
-# Lesson 1 - Setting Python Environment
+# Lesson 1 - Setting Python Environment on windows
 1.  Download and Install [windows compiler for python packages](https://download.microsoft.com/download/7/9/6/796EF2E4-801B-4FC4-AB28-B59FBF6D907B/VCForPython27.msi)
 2.  Download and install python package manager [pip](https://bootstrap.pypa.io/get-pip.py)  (to install just open the file)
 3.  Add the environment variables to the path. 
