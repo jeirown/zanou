@@ -28,7 +28,7 @@ Python lessons to zanou
 	- Type `import matplotlib` and press enter. If you didn't get any errors, well done!
 
 # Lesson 2
-## How to run a python program - script.
+## How to run/execute a python program - script.
 
 A python program will often be referred as a script. For us it is going to be the same. Even among programmers the difference between the 2 terms is a bit vague. For more on [this](http://stackoverflow.com/questions/2286552/difference-between-a-script-and-a-program).
 We will call them *scripts* or *scriptakia*.
@@ -38,8 +38,8 @@ Save all your python scripts with an extension `.py`. Before you move on, make s
 2. To run a script
 	* Open cmd
 	* Go to the directory that your python script is present.
-		* You current location is shown always on the beginning of its line. Something like `C:\Users\zanou`
-		* To list all the directories, use the `dir` command. Type `dir` and press enter.
+		* Your current location is shown always on the beginning of its line. Something like `C:\Users\zanou`
+		* To list all the directories accessible from your current location, use the `dir` command. Type `dir` and press enter.
 		* To move from one directory to another, user the `cd` commadn. Type `cd test_dir` to move to the test_dir directory. To move back one directory use `cd ..`
 		* *Exercise:* What commands should you type to go to your python scripts directory?
 	* Type `python your_script.py` to execute your script
