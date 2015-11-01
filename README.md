@@ -7,7 +7,7 @@ Python lessons to zanou
 2.  Download and install python package manager [pip](https://bootstrap.pypa.io/get-pip.py)  (to install just open the file)
 3.  Add the environment variables to the path. 
  * Press windows button
- * Type "environment"
+ * Type `environment`
  * Press "Edit the system environment variables"
  * Press "Environment Variables..." button
  * Find the PATH variable under the System Variables and press "Edit ..." button
