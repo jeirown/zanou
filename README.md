@@ -20,3 +20,10 @@ Python lessons to zanou
 		- Type `pip install scipy` and press Enter
 		
 
+5. Check that everything has been done successfully
+	- Open command prompt - cmd
+	- Type `python` and press enter. This should invoke the python interpreter.
+	- Type `import numpy` and press enter. If you din't get any errors, well done!
+	- Type `import matplotlib` and press enter. If you didn't get any errors, well done!
+
+Communicate with your teacher, [Giannis Prapas](https://www.facebook.com/giannhs.prapas), if you have any questions.
