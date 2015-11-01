@@ -15,8 +15,8 @@ Python lessons to zanou
  - Press windows button and type "cmd"
  - Right click command prompt and press "Run as administrator"
  - Finally install the packages with pyhon package manager(pip)
-		i.   Type `pip install numpy` and press Enter
-		ii.  Type `pip install matplotlib` and press Enter
-		iii. Type `pip install scipy` and press Enter
+		- Type `pip install numpy` and press Enter
+		- Type `pip install matplotlib` and press Enter
+		- Type `pip install scipy` and press Enter
 		
 
